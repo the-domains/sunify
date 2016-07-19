@@ -1,0 +1,28 @@
+name: Sunify
+favicon: null
+layout_spectrum: 0.7051139264367521
+typography_spectrum: 0.14138784422539175
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.1434246450662613
+  lightness: 0.8538772915489972
+  saturation: 0.2538318354636431
+  rhythmicContrast: 0.7890293707605451
+purpose: []
